@@ -14,5 +14,8 @@ A calculator that performs addition, subtraction, multiplication, and division.
 A Python game where the user guesses a randomly generated number until the correct number is found.
 
 ### 4. Quiz Game
-A simple Python quiz game that asks questions and calculates the final score
+A simple Python quiz game that asks questions and calculates the final score.
+
+### 5. Contact Book
+A simple Python program to store and manage contacts using a dictionary.
 
