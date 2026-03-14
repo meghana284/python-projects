@@ -19,3 +19,6 @@ A simple Python quiz game that asks questions and calculates the final score.
 ### 5. Contact Book
 A simple Python program to store and manage contacts using a dictionary.
 
+### 6. Password Generator
+A Python program that generates a random secure password using letters, numbers, and symbols.
+
