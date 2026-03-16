@@ -22,3 +22,6 @@ A simple Python program to store and manage contacts using a dictionary.
 ### 6. Password Generator
 A Python program that generates a random secure password using letters, numbers, and symbols.
 
+### 7. Dice Rolling Simulator
+A Python program that simulates rolling a dice and generates a random number between 1 and 6.
+
