@@ -25,3 +25,6 @@ A Python program that generates a random secure password using letters, numbers,
 ### 7. Dice Rolling Simulator
 A Python program that simulates rolling a dice and generates a random number between 1 and 6.
 
+### 8. Palindrome Checker
+A Python program that checks whether a given word is a palindrome or not.
+
