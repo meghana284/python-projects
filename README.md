@@ -31,3 +31,6 @@ A Python program that checks whether a given word is a palindrome or not.
 ### 9. Rock Paper Scissors Game
 A Python game where the user plays rock, paper, scissors against the computer.
 
+### 10. Random Story Generator
+A Python program that generates a random fun story using predefined words.
+
