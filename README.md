@@ -1,6 +1,6 @@
 # Python Projects
 
-This repository contains my Python practice projects.
+This repository contains my 10 Python practice projects.
 
 ## Projects
 
